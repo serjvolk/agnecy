@@ -173,7 +173,7 @@ $fontfamily: "";
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		align-items: start;
+		align-items: flex-start;
 		@media (max-width:$md2+px) {
 		    order: 2;
 		    align-items: center;
